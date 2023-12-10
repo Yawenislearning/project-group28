@@ -1,0 +1,11 @@
+1.You need to install some module:
+geoalchemy2 
+geopandas 
+shapely 
+psycopg2 
+psycopg2-binary 
+sqlalchemy 
+matplotlib 
+requests
+geodatasets
+warnings
