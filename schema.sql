@@ -43,3 +43,5 @@ CREATE TABLE IF NOT EXISTS nypd(
 );
 
 CREATE INDEX idx_geometries_geom_gist ON nyc_zipcode USING gist (geometry)
+
+
