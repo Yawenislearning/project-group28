@@ -26,7 +26,7 @@ What's more: extra part--'create a new table and query' is write seperately in P
  3. important:
     download data has a limit with 100w,you need to learn SoOL to cancel default https://dev.socrata.com/docs/queries/
  ## Language Used:
- ### 1. Posrgres
+ ### 1. Postgres
     
     Download here:https://www.postgresql.org/
 
