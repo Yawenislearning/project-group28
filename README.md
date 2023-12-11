@@ -3,8 +3,7 @@
  uni:zq2221
 
 ## Project Drescription:
-We assume that our apartment lease is ending at the end of the year, and we need to find a new apartment. There are a lot of criteria we can use to help find a neighborhood you’d like to live in. One thing you care a lot about is a quiet neighborhood with a lot of greenery. 
-So we use NYC_TREE and NYC_311_COMPLAINT to simulate green and quiet neighborhood.
+This project aims to help people find their desired living space based on different criteria, including greens, incident reports, rents, etc. Geometry data by zipcode, Zillow rent data, and datasets from NYC Open Data are used. Query and visualization examples are shown based on different combinations of standards.
 
 ## Report Content:
 Part 1: download and clean data 
