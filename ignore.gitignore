@@ -10,9 +10,6 @@
 # Ignore SQLite files
 *.sqlite
 
-# Ignore lines containing 'NYC_DATA_APP_TOKEN = "8ITaLVGKJEzelLCfrNyuIi2rJ"'
-*NYC_DATA_APP_TOKEN = "8ITaLVGKJEzelLCfrNyuIi2rJ"*
-
 # Ignore cache and temporary files
 __pycache__/
 *.db
