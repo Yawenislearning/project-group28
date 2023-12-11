@@ -1,0 +1,26 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore CSV files
+*.csv
+
+# Ignore Parquet files
+*.parquet
+
+# Ignore SQLite files
+*.sqlite
+
+# Ignore lines containing 'NYC_DATA_APP_TOKEN = "8ITaLVGKJEzelLCfrNyuIi2rJ"'
+*NYC_DATA_APP_TOKEN = "8ITaLVGKJEzelLCfrNyuIi2rJ"*
+
+# Ignore cache and temporary files
+__pycache__/
+*.db
+*.sqlite3
+*.log
+*.tmp
+*.bak
+*.swp
+
+
+
